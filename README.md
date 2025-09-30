@@ -10,13 +10,14 @@ This app allows users to browse, view, and manage recipes in a clean UI.
 - 📱 Responsive design for desktop & mobile
 
 ## 🛠️ Tech Stack
- - React.js (frontend)
- - CSS  (styling)
- - JavaScript (ES6+)
+- React.js → frontend framework
+- JavaScript (ES6+) → logic
+- CSS → styling (no Tailwind/Bootstrap)
+- Create React App → project setup/build tool
 
 ## ⚙️ Installation & Setup
 
-Clone the repository: bash
+Clone the repository: 
 git clone https://github.com/Mutharasi333/recipe-book-app.git
 cd recipe-book-app
 
