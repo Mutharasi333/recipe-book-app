@@ -1,3 +1,26 @@
+# 🍲 Recipe Book Web Application
+
+A simple and interactive **Recipe Book** web application built with React.  
+This app allows users to browse, view, and manage recipes in a clean UI.
+
+## 🚀 Features
+- 📖 Browse recipes
+- ➕ Add new recipes
+- 📝 View recipe details
+- 📱 Responsive design for desktop & mobile
+
+## 🛠️ Tech Stack
+- **React.js** (frontend)
+- **CSS / Tailwind** (styling)
+- **JavaScript (ES6+)**
+
+## ⚙️ Installation & Setup
+
+Clone the repository:
+---bash
+git clone https://github.com/Mutharasi333/recipe-book-app.git
+cd recipe-book-app
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
