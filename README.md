@@ -4,15 +4,15 @@ A simple and interactive **Recipe Book** web application built with React.
 This app allows users to browse, view, and manage recipes in a clean UI.
 
 ## 🚀 Features
- 📖 Browse recipes
- ➕ Add new recipes
- 📝 View recipe details
- 📱 Responsive design for desktop & mobile
+- 📖 Browse recipes
+- ➕ Add new recipes
+- 📝 View recipe details
+- 📱 Responsive design for desktop & mobile
 
 ## 🛠️ Tech Stack
-  React.js (frontend)
-  CSS  (styling)
-  JavaScript (ES6+)
+ - React.js (frontend)
+ - CSS  (styling)
+ - JavaScript (ES6+)
 
 ## ⚙️ Installation & Setup
 
