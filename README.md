@@ -19,6 +19,7 @@ This app allows users to browse, view, and manage recipes in a clean UI.
 
 Clone the repository: 
 git clone https://github.com/Mutharasi333/recipe-book-app.git
+
 cd recipe-book-app
 
 # Getting Started with Create React App
